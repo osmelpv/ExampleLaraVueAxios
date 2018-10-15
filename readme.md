@@ -1,3 +1,9 @@
+<p align="center"><img src="https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/44128981_1772045669560250_3284085058566094848_o.jpg?_nc_cat=110&oh=a07816d61416322d49d84c34bab706da&oe=5C516067"></p>
+
+Notes: 
+    -Not using mix - npm, only CDNs
+    -Not user table or login
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
